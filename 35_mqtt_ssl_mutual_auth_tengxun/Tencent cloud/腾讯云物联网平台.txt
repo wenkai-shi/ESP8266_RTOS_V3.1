@@ -1,0 +1,41 @@
+[创建云端设备_腾讯云]
+
+
+[认证方式]：证书认证		[产品]：iot_light_swk
+---------------------------------------------------------------------
+云端：
+
+[设备]：				iot_light_mqttfx_tengxun
+
+[MQTT_Host/域名]：		V3UXUA3IBE.iotcloud.tencentdevices.com:8883
+
+[ClientID]：			V3UXUA3IBEiot_light_mqttfx_tengxun
+
+[Username]：			V3UXUA3IBEiot_light_mqttfx_tengxun;12010126;12345
+
+[password]：			61Ma6F5SgnBvZ1Q00a0ZEdqo
+
+------------------------------------------------------------------------
+云下设备：
+
+[设备]：				iot_light_esp8266_01
+
+[MQTT_Host/域名]：		V3UXUA3IBE.iotcloud.tencentdevices.com:8883
+
+[ClientID]：			V3UXUA3IBEiot_light_esp8266_01
+
+[Username]：			V3UXUA3IBEiot_light_esp8266_01;12010126;12345
+
+[password]：			61Ma6F5SgnBvZ1Q00a0ZEdqo
+
+------------------------------------------------------------------------
+
+[主题]：				SW_LED
+
+[ESP8266]订阅：			V3UXUA3IBE/iot_light_esp8266_01/SW_LED
+
+[mqtt.fx]发布：			V3UXUA3IBE/iot_light_mqttfx_tengxun/SW_LED
+
+
+
+
