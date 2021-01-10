@@ -1,0 +1,1267 @@
+Archive member included to satisfy reference by file (symbol)
+
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+                              (call_start_cpu)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o) (bootloader_utility_load_partition_table)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o) (bootloader_init)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o) (bootloader_mmap)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o) (esp_image_load)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o) (esp_partition_table_basic_verify)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o) (bootloader_common_ota_select_valid)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o) (g_rom_flashchip)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o) (spi_flash_get_id_raw)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o) (esp_patition_table_init_location)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o) (esp_log_early_timestamp)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o) (ets_vprintf)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o) (crc32_le)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o) (esp_fast_boot_get_info)
+E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
+                              E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o) (phy_reg_default)
+
+Allocating common symbols
+Common symbol       size              file
+
+esp_image_spi_freq_t
+                    0x4               E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .xt.lit        0x00000000       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .xt.prop       0x00000000       0xe4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ COMMON         0x00000000        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .literal.bootloader_utility_fast_boot_image
+                0x00000000        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .text.bootloader_utility_fast_boot_image
+                0x00000000       0x27 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .xt.lit        0x00000000       0x40 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .xt.prop       0x00000000      0x540 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .xt.lit        0x00000000       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .xt.prop       0x00000000      0x210 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .literal.bootloader_flash_write
+                0x00000000       0x28 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .literal.bootloader_flash_erase_sector
+                0x00000000        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .rodata.bootloader_flash_write.str1.4
+                0x00000000       0xa7 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .text.bootloader_flash_write
+                0x00000000       0x9d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .text.bootloader_flash_erase_sector
+                0x00000000       0x15 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .xt.lit        0x00000000       0x30 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .xt.prop       0x00000000      0x258 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .literal.esp_image_verify_bootloader
+                0x00000000        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .text.esp_image_verify_bootloader
+                0x00000000       0x41 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .xt.lit        0x00000000       0x40 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .xt.prop       0x00000000      0x3e4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .xt.lit        0x00000000        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .xt.prop       0x00000000       0xcc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .literal.bootloader_common_check_long_hold_gpio
+                0x00000000       0x58 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .text.bootloader_common_check_long_hold_gpio
+                0x00000000      0x230 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .xt.lit        0x00000000       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .xt.prop       0x00000000      0x420 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .literal.spi_flash_program
+                0x00000000       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.__spi_flash_write
+                0x00000000        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.__spi_flash_read
+                0x00000000       0x10 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.spi_flash_write_status
+                0x00000000        0xc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.spi_flash_check_wr_protect
+                0x00000000       0x4c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.spi_flash_erase_sector
+                0x00000000       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.spi_flash_read
+                0x00000000       0x24 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.spi_flash_write
+                0x00000000       0x3c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.spi_flash_erase_range
+                0x00000000       0x10 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.spi_flash_cache2phys
+                0x00000000       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.spi_flash_get_chip_size
+                0x00000000        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.spi_flash_program
+                0x00000000       0xd8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.__spi_flash_write
+                0x00000000       0x23 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.__spi_flash_read
+                0x00000000       0x31 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.spi_flash_write_status
+                0x00000000       0x2a E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.spi_flash_check_wr_protect
+                0x00000000      0x165 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.spi_flash_erase_sector
+                0x00000000       0x56 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.spi_flash_read
+                0x00000000      0x109 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.spi_flash_write
+                0x00000000      0x176 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.spi_flash_erase_range
+                0x00000000       0x67 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.spi_flash_cache2phys
+                0x00000000       0x4e E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.spi_flash_get_chip_size
+                0x00000000        0x7 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .xt.lit        0x00000000       0xd0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .xt.prop       0x00000000      0xb04 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .literal.spi_flash_write_status_raw
+                0x00000000       0x1c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .literal.spi_flash_erase_sector_raw
+                0x00000000       0x14 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .literal.spi_flash_write_raw
+                0x00000000        0xc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .literal.spi_flash_read_raw
+                0x00000000        0xc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .text.spi_flash_write_status_raw
+                0x00000000       0x5c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .text.spi_flash_erase_sector_raw
+                0x00000000       0x50 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .text.spi_flash_write_raw
+                0x00000000       0x43 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .text.spi_flash_read_raw
+                0x00000000       0x43 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .xt.lit        0x00000000       0x58 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .xt.prop       0x00000000      0x348 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .xt.lit        0x00000000       0x70 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .xt.prop       0x00000000      0x6a8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .xt.lit        0x00000000       0x10 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .xt.prop       0x00000000       0xcc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .xt.lit        0x00000000       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .xt.prop       0x00000000       0xe4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .literal.crc16_le
+                0x00000000        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .literal.esp_crc8
+                0x00000000        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .text.crc16_le
+                0x00000000       0x3b E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .text.esp_crc8
+                0x00000000       0x21 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .rodata.crc8_le_table
+                0x00000000      0x100 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .rodata.crc16_le_table
+                0x00000000      0x200 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .xt.lit        0x00000000       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .xt.prop       0x00000000       0xfc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .literal.esp_fast_boot_disable
+                0x00000000        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .literal.esp_fast_boot_get_info
+                0x00000000       0x2c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .literal.esp_fast_boot_print_info
+                0x00000000       0x2c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .text.esp_fast_boot_disable
+                0x00000000       0x11 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .rodata.esp_fast_boot_get_info.str1.4
+                0x00000000       0x24 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .text.esp_fast_boot_get_info
+                0x00000000       0x86 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .rodata.esp_fast_boot_print_info.str1.4
+                0x00000000       0x59 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .text.esp_fast_boot_print_info
+                0x00000000       0x4d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .debug_frame   0x00000000       0x68 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .debug_info    0x00000000      0xbcf E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .debug_abbrev  0x00000000      0x251 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .debug_loc     0x00000000       0xb0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .debug_aranges
+                0x00000000       0x30 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .debug_ranges  0x00000000       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .debug_line    0x00000000      0x56f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .debug_str     0x00000000      0x786 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .comment       0x00000000       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .xt.lit        0x00000000       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .xt.prop       0x00000000       0xc0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .literal.phy_reg_default
+                0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
+ .text          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
+ .data          0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
+ .bss           0x00000000        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
+ .xt.lit        0x00000000        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
+ .xt.prop       0x00000000       0x48 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+dport0_seg       0x3ff00000         0x00000010
+dram_seg         0x3ffe8000         0x00017c00
+iram_seg         0x40100000         0x00008000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a
+LOAD E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a
+LOAD E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a
+LOAD E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a
+LOAD E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a
+LOAD E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a
+LOAD E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libgcc.a
+LOAD e:/sdk/esp8266/rtos/msys32/opt/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0/../../../../xtensa-lx106-elf/lib\libstdc++.a
+LOAD e:/sdk/esp8266/rtos/msys32/opt/xtensa-lx106-elf/bin/../lib/gcc/xtensa-lx106-elf/8.4.0\libgcov.a
+END GROUP
+
+.text           0x40100000     0x2365
+                0x40100000                _stext = .
+                0x40100000                _text_start = ABSOLUTE (.)
+                0x40100000                . = ALIGN (0x10)
+ *(.entry.text)
+ *(.init.literal)
+ *(.init)
+ *(.literal .text .literal.* .text.* .stub .gnu.warning .gnu.linkonce.literal.* .gnu.linkonce.t.*.literal .gnu.linkonce.t.*)
+ .literal.selected_boot_partition
+                0x40100000        0xc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+                                 0x1c (size before relaxing)
+ .literal.select_image
+                0x4010000c        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+                                 0x1c (size before relaxing)
+ .literal.call_start_cpu
+                0x40100014        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+                                  0xc (size before relaxing)
+ .literal.log_invalid_app_partition
+                0x40100014       0x14 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0x20 (size before relaxing)
+ .literal.bootloader_utility_start_image
+                0x40100028        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                  0x4 (size before relaxing)
+ .literal.try_load_partition
+                0x40100028        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0x10 (size before relaxing)
+ .literal.bootloader_utility_load_partition_table
+                0x4010002c       0x54 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0x8c (size before relaxing)
+ .literal.bootloader_utility_get_selected_boot_partition
+                0x40100080       0x1c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0x5c (size before relaxing)
+ .literal.bootloader_utility_load_boot_image
+                0x4010009c        0xc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0x40 (size before relaxing)
+ .literal.bootloader_utility_load_image
+                0x401000a8        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                  0x4 (size before relaxing)
+ .literal.print_flash_info
+                0x401000a8       0x48 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                                 0x54 (size before relaxing)
+ .literal.update_flash_config
+                0x401000f0        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                                  0x8 (size before relaxing)
+ .literal.bootloader_main
+                0x401000f4       0x10 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                                 0x30 (size before relaxing)
+ .literal.bootloader_init
+                0x40100104        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                                 0x10 (size before relaxing)
+ .literal.bootloader_flash_read_no_decrypt
+                0x4010010c        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .literal.bootloader_mmap
+                0x40100110       0x30 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+                                 0x3c (size before relaxing)
+ .literal.bootloader_munmap
+                0x40100140        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+                                  0x8 (size before relaxing)
+ .literal.bootloader_flash_read
+                0x40100140        0xc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+                                 0x20 (size before relaxing)
+ .literal.should_map
+                0x4010014c        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .literal.should_load
+                0x40100154        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                  0x4 (size before relaxing)
+ .literal.verify_image_header
+                0x40100154       0x14 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0x20 (size before relaxing)
+ .literal.process_segment_data
+                0x40100168        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0x14 (size before relaxing)
+ .literal.verify_checksum
+                0x40100170        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0x1c (size before relaxing)
+ .literal.process_segment
+                0x40100178       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0x40 (size before relaxing)
+ .literal.esp_image_load
+                0x40100190       0x14 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0x44 (size before relaxing)
+ .literal.esp_partition_table_basic_verify
+                0x401001a4       0x1c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+                                 0x2c (size before relaxing)
+ .literal.bootloader_common_ota_select_crc
+                0x401001c0        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+                                  0x4 (size before relaxing)
+ .literal.bootloader_common_ota_select_valid
+                0x401001c0        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+                                  0x4 (size before relaxing)
+ .literal.spi_user_cmd
+                0x401001c0        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0xc (size before relaxing)
+ .literal.special_flash_read_status
+                0x401001c4        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0x4 (size before relaxing)
+ .literal.flash_gd25q32c_read_status
+                0x401001c4        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0x4 (size before relaxing)
+ .literal.special_flash_write_status
+                0x401001c4        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0x8 (size before relaxing)
+ .literal.spi_flash_enable_qio_bit6
+                0x401001c4        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0x4 (size before relaxing)
+ .literal.flash_gd25q32c_write_status
+                0x401001c4        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0x4 (size before relaxing)
+ .literal.flash_gd25q32c_enable_QIO_mode
+                0x401001c4        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0xc (size before relaxing)
+ .literal.en25q16x_read_sfdp
+                0x401001c4        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0x8 (size before relaxing)
+ .literal.spi_flash_get_id
+                0x401001c8        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0xc (size before relaxing)
+ .literal.spi_flash_read_status
+                0x401001c8        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0xc (size before relaxing)
+ .literal.spi_flash_issi_enable_QIO_mode
+                0x401001c8        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0xc (size before relaxing)
+ .literal.special_flash_set_mode
+                0x401001c8        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                  0x8 (size before relaxing)
+ .literal.en25q16x_write_volatile_status
+                0x401001c8        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x14 (size before relaxing)
+ .literal.user_spi_flash_dio_to_qio_pre_init
+                0x401001c8        0xc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x30 (size before relaxing)
+ .literal.esp_spi_flash_init
+                0x401001d4       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x28 (size before relaxing)
+ .literal.Cache_Read_Disable_2
+                0x401001f4        0xc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                 0x10 (size before relaxing)
+ .literal.Cache_Read_Enable_2
+                0x40100200        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                  0xc (size before relaxing)
+ .literal.spi_flash_get_id_raw
+                0x40100204       0x10 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                 0x1c (size before relaxing)
+ .literal.spi_flash_read_status_raw
+                0x40100214        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                  0xc (size before relaxing)
+ .literal.spi_flash_enable_qmode_raw
+                0x40100218        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                 0x10 (size before relaxing)
+ .literal.spi_user_cmd_raw
+                0x4010021c       0x64 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                 0x8c (size before relaxing)
+ .literal.spi_flash_switch_to_qio_raw
+                0x40100280        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                  0xc (size before relaxing)
+ .literal.esp_hw_reset
+                0x40100288       0x10 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .literal.esp_hw_feed_wdt
+                0x40100298        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                  0x4 (size before relaxing)
+ .literal.spi_flash_read_data
+                0x40100298       0x10 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x18 (size before relaxing)
+ .literal.esp_sdk_update_from_v2
+                0x401002a8        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x18 (size before relaxing)
+ .literal.get_v2_flash_map_size
+                0x401002b0       0x1c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x30 (size before relaxing)
+ .literal.esp_get_updated_partition_table_addr
+                0x401002cc       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x48 (size before relaxing)
+ .literal.spi_flash_erase
+                0x401002e4        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                  0x8 (size before relaxing)
+ .literal.spi_flash_write_data
+                0x401002e8        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x14 (size before relaxing)
+ .literal.spi_flash_write_data_safe
+                0x401002f0       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x38 (size before relaxing)
+ .literal.esp_flash_sector_copy
+                0x40100308        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x24 (size before relaxing)
+ .literal.esp_set_v2boot_app1
+                0x4010030c        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x30 (size before relaxing)
+ .literal.esp_patition_table_init_location
+                0x40100310        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x18 (size before relaxing)
+ .literal.esp_patition_copy_ota1_to_ota0
+                0x40100310        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x1c (size before relaxing)
+ .literal.esp_patition_table_init_data
+                0x40100318       0x14 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x50 (size before relaxing)
+ .literal.uart_putc
+                0x4010032c        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .literal.ets_putc
+                0x40100334        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+                                  0x8 (size before relaxing)
+ .literal.ets_vprintf
+                0x40100334        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .literal.crc32_le
+                0x4010033c        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .iram1.0.literal
+                0x40100340        0x8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .iram1.1.literal
+                0x40100348       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+                                 0x30 (size before relaxing)
+ .iram1.0.literal
+                0x40100360        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+                                  0x8 (size before relaxing)
+ .text.selected_boot_partition
+                0x40100360       0x41 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+                                 0x4d (size before relaxing)
+ *fill*         0x401003a1        0x3 
+ .text.select_image
+                0x401003a4       0x68 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+                                 0x70 (size before relaxing)
+ .text.call_start_cpu
+                0x4010040c       0x26 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+                                 0x2e (size before relaxing)
+                0x4010040c                call_start_cpu
+ *fill*         0x40100432        0x2 
+ .text.log_invalid_app_partition
+                0x40100434       0x4b E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0x53 (size before relaxing)
+ *fill*         0x4010047f        0x1 
+ .text.bootloader_utility_start_image
+                0x40100480       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0x24 (size before relaxing)
+ .text.try_load_partition
+                0x401004a0       0x3d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0x41 (size before relaxing)
+ *fill*         0x401004dd        0x3 
+ .text.bootloader_utility_load_partition_table
+                0x401004e0      0x1a0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                0x1bc (size before relaxing)
+                0x401004e0                bootloader_utility_load_partition_table
+ .text.bootloader_utility_get_selected_boot_partition
+                0x40100680      0x13d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                0x14d (size before relaxing)
+                0x40100680                bootloader_utility_get_selected_boot_partition
+ *fill*         0x401007bd        0x3 
+ .text.bootloader_utility_load_boot_image
+                0x401007c0       0xd6 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0xfa (size before relaxing)
+                0x401007c0                bootloader_utility_load_boot_image
+ *fill*         0x40100896        0x2 
+ .text.bootloader_utility_load_image
+                0x40100898       0x19 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                0x40100898                bootloader_utility_load_image
+ *fill*         0x401008b1        0x3 
+ .text.print_flash_info
+                0x401008b4       0xc7 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                                 0xcb (size before relaxing)
+ *fill*         0x4010097b        0x1 
+ .text.update_flash_config
+                0x4010097c       0x21 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ *fill*         0x4010099d        0x3 
+ .text.bootloader_main
+                0x401009a0       0x69 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                                 0x79 (size before relaxing)
+ *fill*         0x40100a09        0x3 
+ .text.bootloader_init
+                0x40100a0c       0x25 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                                 0x29 (size before relaxing)
+                0x40100a0c                bootloader_init
+ *fill*         0x40100a31        0x3 
+ .text.bootloader_flash_read_no_decrypt
+                0x40100a34       0x15 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ *fill*         0x40100a49        0x3 
+ .text.bootloader_mmap
+                0x40100a4c       0xa6 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+                                 0xaa (size before relaxing)
+                0x40100a4c                bootloader_mmap
+ *fill*         0x40100af2        0x2 
+ .text.bootloader_munmap
+                0x40100af4       0x23 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+                0x40100af4                bootloader_munmap
+ *fill*         0x40100b17        0x1 
+ .text.bootloader_flash_read
+                0x40100b18       0x60 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+                                 0x63 (size before relaxing)
+                0x40100b18                bootloader_flash_read
+ *fill*         0x40100b78        0x0 
+ .text.should_map
+                0x40100b78       0x15 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ *fill*         0x40100b8d        0x3 
+ .text.should_load
+                0x40100b90       0x19 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0x1d (size before relaxing)
+ *fill*         0x40100ba9        0x3 
+ .text.verify_image_header
+                0x40100bac       0x7d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0x85 (size before relaxing)
+ *fill*         0x40100c29        0x3 
+ .text.process_segment_data
+                0x40100c2c       0x89 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0x91 (size before relaxing)
+ *fill*         0x40100cb5        0x3 
+ .text.verify_checksum
+                0x40100cb8       0x9c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0xa0 (size before relaxing)
+ .text.process_segment
+                0x40100d54      0x10b E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                0x117 (size before relaxing)
+ *fill*         0x40100e5f        0x1 
+ .text.esp_image_load
+                0x40100e60      0x18d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                0x1a5 (size before relaxing)
+                0x40100e60                esp_image_load
+ *fill*         0x40100fed        0x3 
+ .text.esp_partition_table_basic_verify
+                0x40100ff0       0xd7 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+                0x40100ff0                esp_partition_table_basic_verify
+ *fill*         0x401010c7        0x1 
+ .text.bootloader_common_ota_select_crc
+                0x401010c8       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+                0x401010c8                bootloader_common_ota_select_crc
+ .text.bootloader_common_ota_select_valid
+                0x401010e0       0x2c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+                0x401010e0                bootloader_common_ota_select_valid
+ .text.spi_user_cmd
+                0x4010110c       0x4d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                0x4010110c                spi_user_cmd
+ *fill*         0x40101159        0x3 
+ .text.special_flash_read_status
+                0x4010115c       0x39 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x3d (size before relaxing)
+                0x4010115c                special_flash_read_status
+ *fill*         0x40101195        0x3 
+ .text.flash_gd25q32c_read_status
+                0x40101198       0x33 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ *fill*         0x401011cb        0x1 
+ .text.special_flash_write_status
+                0x401011cc       0x5c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x60 (size before relaxing)
+                0x401011cc                special_flash_write_status
+ .text.spi_flash_enable_qio_bit6
+                0x40101228       0x17 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x1b (size before relaxing)
+ *fill*         0x4010123f        0x1 
+ .text.flash_gd25q32c_write_status
+                0x40101240       0x30 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .text.flash_gd25q32c_enable_QIO_mode
+                0x40101270       0x3e E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x46 (size before relaxing)
+ *fill*         0x401012ae        0x2 
+ .text.en25q16x_read_sfdp
+                0x401012b0       0x43 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                0x401012b0                en25q16x_read_sfdp
+ *fill*         0x401012f3        0x1 
+ .text.spi_flash_get_id
+                0x401012f4       0x26 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                0x401012f4                spi_flash_get_id
+ *fill*         0x4010131a        0x2 
+ .text.spi_flash_read_status
+                0x4010131c       0x28 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                0x4010131c                spi_flash_read_status
+ .text.spi_flash_issi_enable_QIO_mode
+                0x40101344       0x43 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x4b (size before relaxing)
+ *fill*         0x40101387        0x1 
+ .text.special_flash_set_mode
+                0x40101388       0x41 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x45 (size before relaxing)
+                0x40101388                special_flash_set_mode
+ *fill*         0x401013c9        0x3 
+ .text.en25q16x_write_volatile_status
+                0x401013cc       0x4f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0x5b (size before relaxing)
+                0x401013cc                en25q16x_write_volatile_status
+ *fill*         0x4010141b        0x1 
+ .text.user_spi_flash_dio_to_qio_pre_init
+                0x4010141c       0x95 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0xa1 (size before relaxing)
+                0x4010141c                user_spi_flash_dio_to_qio_pre_init
+ *fill*         0x401014b1        0x3 
+ .text.esp_spi_flash_init
+                0x401014b4       0xb9 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                 0xc1 (size before relaxing)
+                0x401014b4                esp_spi_flash_init
+ *fill*         0x4010156d        0x3 
+ .text.Cache_Read_Disable_2
+                0x40101570       0x34 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                0x40101570                Cache_Read_Disable_2
+ .text.Cache_Read_Enable_2
+                0x401015a4       0x28 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                0x401015a4                Cache_Read_Enable_2
+                0x401015a4                Cache_Read_Enable_New
+ .text.spi_flash_get_id_raw
+                0x401015cc       0x57 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                0x401015cc                spi_flash_get_id_raw
+ *fill*         0x40101623        0x1 
+ .text.spi_flash_read_status_raw
+                0x40101624       0x2f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                 0x33 (size before relaxing)
+                0x40101624                spi_flash_read_status_raw
+ *fill*         0x40101653        0x1 
+ .text.spi_flash_enable_qmode_raw
+                0x40101654       0x33 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                 0x37 (size before relaxing)
+                0x40101654                spi_flash_enable_qmode_raw
+ *fill*         0x40101687        0x1 
+ .text.spi_user_cmd_raw
+                0x40101688      0x3df E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                0x40101688                spi_user_cmd_raw
+ *fill*         0x40101a67        0x1 
+ .text.spi_flash_switch_to_qio_raw
+                0x40101a68       0x25 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                0x40101a68                spi_flash_switch_to_qio_raw
+ *fill*         0x40101a8d        0x3 
+ .text.esp_hw_reset
+                0x40101a90       0x62 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x40101af2        0x2 
+ .text.esp_hw_feed_wdt
+                0x40101af4        0xd E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x40101b01        0x3 
+ .text.spi_flash_read_data
+                0x40101b04       0x53 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x40101b57        0x1 
+ .text.esp_sdk_update_from_v2
+                0x40101b58       0x67 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x6b (size before relaxing)
+ *fill*         0x40101bbf        0x1 
+ .text.get_v2_flash_map_size
+                0x40101bc0       0x7e E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x82 (size before relaxing)
+ *fill*         0x40101c3e        0x2 
+ .text.esp_get_updated_partition_table_addr
+                0x40101c40       0xe6 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0xf2 (size before relaxing)
+ *fill*         0x40101d26        0x2 
+ .text.spi_flash_erase
+                0x40101d28       0x23 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x40101d4b        0x1 
+ .text.spi_flash_write_data
+                0x40101d4c       0x49 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x40101d95        0x3 
+ .text.spi_flash_write_data_safe
+                0x40101d98       0xa1 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0xb5 (size before relaxing)
+ *fill*         0x40101e39        0x3 
+ .text.esp_flash_sector_copy
+                0x40101e3c       0x7f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x87 (size before relaxing)
+ *fill*         0x40101ebb        0x1 
+ .text.esp_set_v2boot_app1
+                0x40101ebc      0x137 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                0x13f (size before relaxing)
+ *fill*         0x40101ff3        0x1 
+ .text.esp_patition_table_init_location
+                0x40101ff4       0x33 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x3f (size before relaxing)
+                0x40101ff4                esp_patition_table_init_location
+ *fill*         0x40102027        0x1 
+ .text.esp_patition_copy_ota1_to_ota0
+                0x40102028       0x70 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0x78 (size before relaxing)
+                0x40102028                esp_patition_copy_ota1_to_ota0
+ .text.esp_patition_table_init_data
+                0x40102098       0xc3 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                 0xdb (size before relaxing)
+                0x40102098                esp_patition_table_init_data
+ *fill*         0x4010215b        0x1 
+ .text.uart_putc
+                0x4010215c       0x1b E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ *fill*         0x40102177        0x1 
+ .text.ets_putc
+                0x40102178       0x27 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+                0x40102178                ets_putc
+ *fill*         0x4010219f        0x1 
+ .text.ets_vprintf
+                0x401021a0       0x1f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+                0x401021a0                ets_vprintf
+ *fill*         0x401021bf        0x1 
+ .text.crc32_le
+                0x401021c0       0x31 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+                0x401021c0                crc32_le
+ *fill*         0x401021f1        0x3 
+ .text.phy_reg_default
+                0x401021f4       0x36 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
+                0x40102204                phy_reg_default
+ *fill*         0x4010222a        0x0 
+ *fill*         0x4010222a        0x2 
+ .text.index_to_partition
+                0x4010222c       0x4d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x0 
+ *fill*         0x40102279        0x3 
+ .text.verify_segment_header
+                0x4010227c        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *fill*         0x40102280        0x0 
+ *(.iram1 .iram1.*)
+ .iram1.0       0x40102280       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+                0x40102280                esp_log_early_timestamp
+ .iram1.1       0x40102298       0x96 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+                                 0xa1 (size before relaxing)
+                0x40102298                esp_early_log_write
+ *fill*         0x4010232e        0x2 
+ .iram1.0       0x40102330       0x35 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+                                 0x39 (size before relaxing)
+                0x40102330                ets_printf
+ *fill*         0x40102365        0x0 
+ *fill*         0x40102365        0x0 
+ *(.fini.literal)
+ *(.fini)
+ *(.gnu.version)
+                0x40102365                _text_end = ABSOLUTE (.)
+                0x40102365                _etext = .
+
+.bss            0x3ffe8000     0x2938
+                0x3ffe8000                . = ALIGN (0x8)
+                0x3ffe8000                _bss_start = ABSOLUTE (.)
+ *(.dynsbss)
+ *(.sbss)
+ *(.sbss.*)
+ *(.gnu.linkonce.sb.*)
+ *(.scommon)
+ *(.sbss2)
+ *(.sbss2.*)
+ *(.gnu.linkonce.sb2.*)
+ *(.dynbss)
+ *(.bss)
+ *(.bss.*)
+ .bss.mapped    0x3ffe8000        0x1 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ *fill*         0x3ffe8001        0x3 
+ .bss.pbuf$3629
+                0x3ffe8004      0x400 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .bss.FlashIsOnGoing
+                0x3ffe8404        0x1 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                0x3ffe8404                FlashIsOnGoing
+ *fill*         0x3ffe8405        0x3 
+ .bss.s_boot_param
+                0x3ffe8408      0x500 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .bss.s_sys_param
+                0x3ffe8908       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .bss.s_v2_flash_size
+                0x3ffe8928        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .bss.s_v2_flash_bin_size
+                0x3ffe892c        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .bss.check_buf
+                0x3ffe8930     0x1000 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .bss.s_cache_buf
+                0x3ffe9930     0x1000 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .bss.s_partition_offset
+                0x3ffea930        0x4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x3ffea938                . = ALIGN (0x8)
+ *fill*         0x3ffea934        0x4 
+                0x3ffea938                _bss_end = ABSOLUTE (.)
+
+.data           0x3ffea938       0x30
+                0x3ffea938                _data_start = ABSOLUTE (.)
+ *(.data)
+ *(.data.*)
+ .data.g_rom_flashchip
+                0x3ffea938       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                0x3ffea938                g_rom_flashchip
+ .data.s_flash_chip
+                0x3ffea950       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *(.gnu.linkonce.d.*)
+ *(.data1)
+ *(.sdata)
+ *(.sdata.*)
+ *(.gnu.linkonce.s.*)
+ *(.sdata2)
+ *(.sdata2.*)
+ *(.gnu.linkonce.s2.*)
+ *(.jcr)
+                0x3ffea968                _data_end = ABSOLUTE (.)
+
+.rodata         0x3ffea968     0x10f8
+                0x3ffea968                _rodata_start = ABSOLUTE (.)
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.selected_boot_partition.str1.4
+                0x3ffea968       0x54 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .rodata.select_image.str1.4
+                0x3ffea9bc       0x1c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .rodata.log_invalid_app_partition.str1.4
+                0x3ffea9d8       0x68 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                 0x70 (size before relaxing)
+ .rodata.try_load_partition.str1.4
+                0x3ffeaa40       0x29 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ *fill*         0x3ffeaa69        0x3 
+ .rodata.bootloader_utility_load_partition_table.str1.4
+                0x3ffeaa6c      0x183 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ *fill*         0x3ffeabef        0x1 
+ .rodata.bootloader_utility_get_selected_boot_partition.str1.4
+                0x3ffeabf0       0xef E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ *fill*         0x3ffeacdf        0x1 
+ .rodata.bootloader_utility_load_boot_image.str1.4
+                0x3ffeace0       0x9a E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ *fill*         0x3ffead7a        0x2 
+ .rodata.print_flash_info.str1.4
+                0x3ffead7c       0x88 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                                 0x94 (size before relaxing)
+ .rodata.print_flash_info
+                0x3ffeae04       0x28 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .rodata.bootloader_main.str1.4
+                0x3ffeae2c       0x7a E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ *fill*         0x3ffeaea6        0x2 
+ .rodata.bootloader_mmap.str1.4
+                0x3ffeaea8       0x57 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ *fill*         0x3ffeaeff        0x1 
+ .rodata.bootloader_flash_read.str1.4
+                0x3ffeaf00       0x9f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ *fill*         0x3ffeaf9f        0x1 
+ .rodata.verify_image_header.str1.4
+                0x3ffeafa0       0x82 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ *fill*         0x3ffeb022        0x2 
+ .rodata.process_segment_data.str1.4
+                0x3ffeb024       0x27 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ *fill*         0x3ffeb04b        0x1 
+ .rodata.verify_checksum.str1.4
+                0x3ffeb04c       0x57 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ *fill*         0x3ffeb0a3        0x1 
+ .rodata.process_segment.str1.4
+                0x3ffeb0a4       0x8f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                 0x93 (size before relaxing)
+ *fill*         0x3ffeb133        0x1 
+ .rodata.esp_image_load.str1.4
+                0x3ffeb134       0xaf E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ *fill*         0x3ffeb1e3        0x1 
+ .rodata.esp_partition_table_basic_verify.str1.4
+                0x3ffeb1e4       0xb4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .rodata.esp_spi_flash_init.str1.4
+                0x3ffeb298       0x29 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ *fill*         0x3ffeb2c1        0x3 
+ .rodata.spi_flash_read_data.str1.4
+                0x3ffeb2c4       0x47 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x3ffeb30b        0x1 
+ .rodata.esp_sdk_update_from_v2.str1.4
+                0x3ffeb30c       0x1c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .rodata.get_v2_flash_map_size.str1.4
+                0x3ffeb328       0x63 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x3ffeb38b        0x1 
+ .rodata.esp_get_updated_partition_table_addr.str1.4
+                0x3ffeb38c       0x5c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .rodata.spi_flash_write_data.str1.4
+                0x3ffeb3e8       0x37 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x3ffeb41f        0x1 
+ .rodata.spi_flash_write_data_safe.str1.4
+                0x3ffeb420       0x89 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x3ffeb4a9        0x3 
+ .rodata.esp_patition_copy_ota1_to_ota0.str1.4
+                0x3ffeb4ac       0x4d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x3ffeb4f9        0x3 
+ .rodata.esp_patition_table_init_data.str1.4
+                0x3ffeb4fc       0xce E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ *fill*         0x3ffeb5ca        0x2 
+ .rodata.s_v2_flash_bin_map_table
+                0x3ffeb5cc       0x28 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .rodata.s_v2_flash_bin_size_map_table
+                0x3ffeb5f4       0x28 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .rodata.str1.4
+                0x3ffeb61c       0x24 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+                                 0x22 (size before relaxing)
+ .rodata.s_log_prefix
+                0x3ffeb640        0x6 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ *fill*         0x3ffeb646        0x2 
+ .rodata.s_log_color
+                0x3ffeb648       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .rodata.crc32_le_table
+                0x3ffeb660      0x400 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ *(.gnu.linkonce.r.*)
+ *(.rodata1)
+                0x3ffeba60                __XT_EXCEPTION_TABLE_ = ABSOLUTE (.)
+ *(.xt_except_table)
+ *(.gcc_except_table)
+ *(.gnu.linkonce.e.*)
+ *(.gnu.version_r)
+ *(.eh_frame)
+                0x3ffeba60                . = ((. + 0x3) & 0xfffffffc)
+                0x3ffeba60                __init_array_start = ABSOLUTE (.)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x3ffeba60                __init_array_end = ABSOLUTE (.)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x3ffeba60                __XT_EXCEPTION_DESCS_ = ABSOLUTE (.)
+ *(.xt_except_desc)
+ *(.gnu.linkonce.h.*)
+                0x3ffeba60                __XT_EXCEPTION_DESCS_END__ = ABSOLUTE (.)
+ *(.xt_except_desc_end)
+ *(.dynamic)
+ *(.gnu.version_d)
+                0x3ffeba60                _rodata_end = ABSOLUTE (.)
+                0x3ffeba60                _lit4_start = ABSOLUTE (.)
+ *(*.lit4)
+ *(.lit4.*)
+ *(.gnu.linkonce.lit4.*)
+                0x3ffeba60                _lit4_end = ABSOLUTE (.)
+                0x3ffeba60                . = ALIGN (0x4)
+                0x3ffeba60                _heap_start = ABSOLUTE (.)
+                0x60001100                PROVIDE (rtc_sys_info = 0x60001100)
+                0x400040c0                PROVIDE (SPI_sector_erase = 0x400040c0)
+                0x40004174                PROVIDE (SPI_page_program = 0x40004174)
+                0x400042ac                PROVIDE (SPI_read_data = 0x400042ac)
+                0x400043c8                PROVIDE (SPI_read_status = 0x400043c8)
+                0x40004400                PROVIDE (SPI_write_status = 0x40004400)
+                0x4000443c                PROVIDE (SPI_write_enable = 0x4000443c)
+                0x4000448c                PROVIDE (Wait_SPI_Idle = 0x4000448c)
+                0x400044c0                PROVIDE (Enable_QMode = 0x400044c0)
+                [!provide]                PROVIDE (Disable_QMode = 0x40004508)
+                0x40004678                PROVIDE (Cache_Read_Enable = 0x40004678)
+                0x400047f0                PROVIDE (Cache_Read_Disable = 0x400047f0)
+                [!provide]                PROVIDE (lldesc_build_chain = 0x40004f40)
+                [!provide]                PROVIDE (lldesc_num2link = 0x40005050)
+                [!provide]                PROVIDE (lldesc_set_owner = 0x4000507c)
+                0x4000c538                __adddf3 = 0x4000c538
+                0x4000c180                __addsf3 = 0x4000c180
+                0x4000cb94                __divdf3 = 0x4000cb94
+                0x4000ce60                __divdi3 = 0x4000ce60
+                0x4000dc88                __divsi3 = 0x4000dc88
+                0x4000cdfc                __extendsfdf2 = 0x4000cdfc
+                0x4000ccb8                __fixdfsi = 0x4000ccb8
+                0x4000cd00                __fixunsdfsi = 0x4000cd00
+                0x4000c4c4                __fixunssfsi = 0x4000c4c4
+                0x4000e2f0                __floatsidf = 0x4000e2f0
+                0x4000e2ac                __floatsisf = 0x4000e2ac
+                0x4000e2e8                __floatunsidf = 0x4000e2e8
+                0x4000e2a4                __floatunsisf = 0x4000e2a4
+                0x4000c8f0                __muldf3 = 0x4000c8f0
+                0x40000650                __muldi3 = 0x40000650
+                0x4000c3dc                __mulsf3 = 0x4000c3dc
+                0x4000c688                __subdf3 = 0x4000c688
+                0x4000c268                __subsf3 = 0x4000c268
+                0x4000cd5c                __truncdfsf2 = 0x4000cd5c
+                0x4000d310                __udivdi3 = 0x4000d310
+                0x4000e21c                __udivsi3 = 0x4000e21c
+                0x4000d770                __umoddi3 = 0x4000d770
+                0x4000e268                __umodsi3 = 0x4000e268
+                0x4000dcf0                __umulsidi3 = 0x4000dcf0
+                0x4000de84                bzero = 0x4000de84
+                0x4000dea8                memcmp = 0x4000dea8
+                0x4000df48                memcpy = 0x4000df48
+                0x4000e04c                memmove = 0x4000e04c
+                0x4000e190                memset = 0x4000e190
+                0x4000bdc8                strcmp = 0x4000bdc8
+                0x4000bec8                strcpy = 0x4000bec8
+                0x4000bf4c                strlen = 0x4000bf4c
+                0x4000bfa8                strncmp = 0x4000bfa8
+                0x4000c0a0                strncpy = 0x4000c0a0
+                0x4000e1e0                strstr = 0x4000e1e0
+                0x40004cf0                PROVIDE (gpio_input_get = 0x40004cf0)
+                [!provide]                PROVIDE (gpio_pin_wakeup_disable = 0x40004ed4)
+                [!provide]                PROVIDE (gpio_pin_wakeup_enable = 0x40004e90)
+                0x40001f00                PROVIDE (ets_io_vprintf = 0x40001f00)
+                [!provide]                PROVIDE (uart_rx_one_char = 0x40003b8c)
+                [!provide]                PROVIDE (rom_i2c_readReg = 0x40007268)
+                [!provide]                PROVIDE (rom_i2c_readReg_Mask = 0x4000729c)
+                [!provide]                PROVIDE (rom_i2c_writeReg = 0x400072d8)
+                [!provide]                PROVIDE (rom_i2c_writeReg_Mask = 0x4000730c)
+                [!provide]                PROVIDE (rom_software_reboot = 0x40000080)
+                [!provide]                PROVIDE (ets_memcpy = 0x400018b4)
+                0x40004b1c                PROVIDE (SPIRead = 0x40004b1c)
+                0x40004a4c                PROVIDE (SPIWrite = 0x40004a4c)
+                0x40004a00                PROVIDE (SPIEraseSector = 0x40004a00)
+                [!provide]                PROVIDE (gpio_input_get = 0x40004cf0)
+                [!provide]                PROVIDE (xthal_get_ccount = 0x4000dd38)
+                [!provide]                PROVIDE (uart_div_modify = 0x400039d8)
+                [!provide]                PROVIDE (ets_io_vprintf = 0x40001f00)
+OUTPUT(E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader.elf elf32-xtensa-le)
+
+.debug_frame    0x00000000      0xcb0
+ .debug_frame   0x00000000       0x74 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .debug_frame   0x00000074      0x140 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .debug_frame   0x000001b4       0x94 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .debug_frame   0x00000248       0xdc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .debug_frame   0x00000324      0x13c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .debug_frame   0x00000460       0x38 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .debug_frame   0x00000498       0x74 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .debug_frame   0x0000050c      0x350 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .debug_frame   0x0000085c      0x16c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .debug_frame   0x000009c8      0x1d0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .debug_frame   0x00000b98       0x58 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .debug_frame   0x00000bf0       0x80 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .debug_frame   0x00000c70       0x40 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+
+.debug_info     0x00000000     0xe39c
+ .debug_info    0x00000000      0xe06 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .debug_info    0x00000e06     0x1809 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .debug_info    0x0000260f      0xe02 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .debug_info    0x00003411      0xe3a E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .debug_info    0x0000424b     0x16ca E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .debug_info    0x00005915      0xca5 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .debug_info    0x000065ba     0x12b3 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .debug_info    0x0000786d     0x1e00 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .debug_info    0x0000966d     0x10c9 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .debug_info    0x0000a736     0x1bff E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .debug_info    0x0000c335     0x12ba E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .debug_info    0x0000d5ef      0xb66 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .debug_info    0x0000e155      0x247 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+
+.debug_abbrev   0x00000000     0x25d0
+ .debug_abbrev  0x00000000      0x2c1 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .debug_abbrev  0x000002c1      0x355 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .debug_abbrev  0x00000616      0x2f2 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .debug_abbrev  0x00000908      0x2aa E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .debug_abbrev  0x00000bb2      0x316 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .debug_abbrev  0x00000ec8      0x271 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .debug_abbrev  0x00001139      0x2c7 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .debug_abbrev  0x00001400      0x45b E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .debug_abbrev  0x0000185b      0x29d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .debug_abbrev  0x00001af8      0x442 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .debug_abbrev  0x00001f3a      0x315 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .debug_abbrev  0x0000224f      0x2a2 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .debug_abbrev  0x000024f1       0xdf E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+
+.debug_loc      0x00000000     0x401d
+ .debug_loc     0x00000000       0xbd E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .debug_loc     0x000000bd      0x717 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .debug_loc     0x000007d4       0xbc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .debug_loc     0x00000890      0x427 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .debug_loc     0x00000cb7      0xb53 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .debug_loc     0x0000180a      0x11a E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .debug_loc     0x00001924      0x18f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .debug_loc     0x00001ab3     0x11dd E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .debug_loc     0x00002c90      0x668 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .debug_loc     0x000032f8      0x96d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .debug_loc     0x00003c65      0x119 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .debug_loc     0x00003d7e       0xe9 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .debug_loc     0x00003e67      0x1b6 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+
+.debug_aranges  0x00000000      0x430
+ .debug_aranges
+                0x00000000       0x30 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .debug_aranges
+                0x00000030       0x60 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .debug_aranges
+                0x00000090       0x38 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .debug_aranges
+                0x000000c8       0x48 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .debug_aranges
+                0x00000110       0x60 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .debug_aranges
+                0x00000170       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .debug_aranges
+                0x00000190       0x30 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .debug_aranges
+                0x000001c0       0xe8 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .debug_aranges
+                0x000002a8       0x70 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .debug_aranges
+                0x00000318       0x88 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .debug_aranges
+                0x000003a0       0x28 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .debug_aranges
+                0x000003c8       0x38 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .debug_aranges
+                0x00000400       0x30 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+
+.debug_ranges   0x00000000      0x3a8
+ .debug_ranges  0x00000000       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .debug_ranges  0x00000020       0x50 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .debug_ranges  0x00000070       0x28 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .debug_ranges  0x00000098       0x38 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .debug_ranges  0x000000d0       0x68 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .debug_ranges  0x00000138       0x10 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .debug_ranges  0x00000148       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .debug_ranges  0x00000168       0xf0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .debug_ranges  0x00000258       0x60 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .debug_ranges  0x000002b8       0x90 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .debug_ranges  0x00000348       0x18 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .debug_ranges  0x00000360       0x28 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .debug_ranges  0x00000388       0x20 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+
+.debug_line     0x00000000     0xa02b
+ .debug_line    0x00000000      0x6de E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .debug_line    0x000006de     0x152b E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .debug_line    0x00001c09      0x825 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .debug_line    0x0000242e      0x880 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .debug_line    0x00002cae     0x1294 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .debug_line    0x00003f42      0x66e E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .debug_line    0x000045b0      0x66c E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .debug_line    0x00004c1c     0x1fa2 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .debug_line    0x00006bbe      0xc2a E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .debug_line    0x000077e8     0x1abe E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .debug_line    0x000092a6      0x5c9 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .debug_line    0x0000986f      0x42e E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .debug_line    0x00009c9d      0x38e E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+
+.debug_str      0x00000000     0x2c65
+ .debug_str     0x00000000      0x8bc E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+                                0x997 (size before relaxing)
+ .debug_str     0x000008bc      0x3e5 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+                                0xc6b (size before relaxing)
+ .debug_str     0x00000ca1      0x332 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+                                0xa9f (size before relaxing)
+ .debug_str     0x00000fd3      0x159 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+                                0x831 (size before relaxing)
+ .debug_str     0x0000112c      0x1e6 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+                                0xc1b (size before relaxing)
+ .debug_str     0x00001312       0x9e E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+                                0x849 (size before relaxing)
+ .debug_str     0x000013b0      0xad6 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+                               0x115b (size before relaxing)
+ .debug_str     0x00001e86      0x5a4 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+                                0xdb3 (size before relaxing)
+ .debug_str     0x0000242a      0x146 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+                                0x95b (size before relaxing)
+ .debug_str     0x00002570      0x38f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+                                0xcac (size before relaxing)
+ .debug_str     0x000028ff      0x19f E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+                               0x10c4 (size before relaxing)
+ .debug_str     0x00002a9e      0x12a E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+                                0x729 (size before relaxing)
+ .debug_str     0x00002bc8       0x9d E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+                                0x251 (size before relaxing)
+
+.comment        0x00000000       0x6b
+ .comment       0x00000000       0x31 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+                                 0x32 (size before relaxing)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .comment       0x00000031       0x32 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .comment       0x00000031       0x3a E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
+                                 0x3b (size before relaxing)
+
+.xtensa.info    0x00000000       0x38
+ .xtensa.info   0x00000000       0x38 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/main\libmain.a(bootloader_start.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_utility.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_init.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_flash.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(esp_image_format.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(flash_partitions.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/bootloader_support\libbootloader_support.a(bootloader_common.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(spi_flash_raw.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/spi_flash\libspi_flash.a(port.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/log\liblog.a(log.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(ets_printf.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(crc.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/MyProject/47_system_ota/native_ota/1MB_flash/new_to_new_with_old/build/bootloader/esp8266\libesp8266.a(esp_fast_boot.o)
+ .xtensa.info   0x00000038        0x0 E:/SDK/ESP8266/RTOS/msys32/home/Administrator/ESP8266_RTOS_SDK/components/esp8266/lib\libcore.a(phy.o)
